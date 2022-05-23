@@ -1,4 +1,4 @@
-![输入图片说明](img/%E6%90%9C%E7%B4%A2%E5%88%97%E8%A1%A8.png)# 先去网易云node.js官网下载好后端包
+# 先去网易云node.js官网下载好后端包
 官网：https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
 ## 将后端接口开启
 node ./app.js
