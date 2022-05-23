@@ -9,14 +9,20 @@ npm i
 # 将项目跑起来
 npm run serve
 
-效果图：
-首页：
-![输入图片说明](img/image.png)
-播放页面（未播放）：
-![输入图片说明](img/image.png)
-播放页面（播放）：
-![输入图片说明](img/image.png)
-
-
-
-
+# 效果图：
+## 首页：
+(img/image.png)
+## 播放页面（未播放）：
+(img/image.png)
+## 播放页面（播放）：
+(img/image.png)
+## 歌单详情
+(img/image1.png)
+## 搜索功能
+(img/image2.png)
+## 播放页面（歌词）
+(img/image3.png)
+## 登录页面（样式随便写写）
+(img/image4.png)
+## 个人中心（调用网易登录接口后的个人中心，样式随便写写）
+(img/image5.png)
