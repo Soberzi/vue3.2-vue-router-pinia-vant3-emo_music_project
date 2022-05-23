@@ -1,5 +1,6 @@
- ### **基于vue-cli创建的仿网易云音乐项目 
-技术栈vue3.2 + vue-router + pinia + vant3+rem移动适配
+ 
+# 基于vue-cli创建的仿网易云音乐项目 
+ **技术栈vue3.2 + vue-router + pinia + vant3+rem移动适配
  结合vue3.2的setup语法糖和状态管理Pinia
 后台接口是在网易云提供的官方node.js文档** 
 
